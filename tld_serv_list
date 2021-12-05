@@ -61,7 +61,7 @@
 .pro	whois.afilias.net
 .tel	whois.nic.tel
 .travel	whois.nic.travel
-.xxx	whois.registrar.adult
+.xxx	whois.nic.xxx
 
 .ac	whois.nic.ac
 .ad	NONE		# www.nic.ad
@@ -217,7 +217,7 @@
 .ml	whois.dot.ml	# www.point.ml
 .mm	whois.registry.gov.mm
 .mn	whois.nic.mn
-.mo	WEB http://www.monic.mo/	# whois.monic.mo is restricted
+.mo	whois.monic.mo
 .mp	NONE		# get.mp
 .mq	whois.mediaserv.net
 .mr	whois.nic.mr
@@ -344,7 +344,7 @@
 .vg	whois.nic.vg
 .vi	WEB https://secure.nic.vi/whois-lookup/
 .vn	WEB http://www.vnnic.vn/en
-.vu	whois.dnrs.neustar
+.vu	whois.dnrs.vu
 .wf	whois.nic.wf
 .ws	whois.website.ws
 .ye	NONE		# NIC? http://www.y.net.ye/services/domain_name.htm
